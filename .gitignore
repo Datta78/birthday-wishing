@@ -4,44 +4,40 @@
 # Last Updated: June 2026
 # ========================================
 
-# Environment Variables & Secrets
+# === Environment & Secrets ===
 .env
 .env.local
-.env.*.local
 *.key
 credentials.json
 
-# Logs & Error Files
+# === Logs & Debugging ===
 *.log
 logs/
 error.log
 debug.log
 
-# Operating System Files
+# === OS Generated Files ===
 .DS_Store
 Thumbs.db
-ehthumbs.db
 
-# IDE & Editor Files
+# === IDE / Editors ===
 .vscode/
 .idea/
 *.swp
 *.swo
-.project
-.settings/
 
-# Python Cache
+# === Python ===
 __pycache__/
 *.pyc
-*.pyo
 
-# Temporary & Cache Folders
+# === Temporary Files ===
 temp/
 tmp/
 cache/
-*.cache
-*.tmp
 
-# Keep this at the bottom
+# === Media & Large Files ===
+*.mp4
+*.zip
+*.rar
+
 # ========================================
-# Add project-specific rules below this line
