@@ -1,43 +1,37 @@
 # ========================================
 # Dattatray Bhosale - .gitignore
-# Birthday Wishing Project
-# Last Updated: June 2026
+# Birthday Wishing Automation Script
 # ========================================
 
-# === Environment & Secrets ===
-.env
-.env.local
+# Environment & Secrets
+.env*
 *.key
-credentials.json
+*.pem
 
-# === Logs & Debugging ===
-*.log
-logs/
-error.log
-debug.log
+# Logs
+**/*.log
 
-# === OS Generated Files ===
+# OS & IDE
 .DS_Store
-Thumbs.db
-
-# === IDE / Editors ===
 .vscode/
 .idea/
-*.swp
-*.swo
 
-# === Python ===
+# Cache & Temp
 __pycache__/
 *.pyc
-
-# === Temporary Files ===
 temp/
-tmp/
 cache/
 
-# === Media & Large Files ===
-*.mp4
-*.zip
-*.rar
+# Build & Dependencies
+build/
+dist/
+node_modules/
 
+# Database & Backups
+*.sql
+*.bak
+*.backup
+
+# ========================================
+# Custom Rules for Birthday Project
 # ========================================
