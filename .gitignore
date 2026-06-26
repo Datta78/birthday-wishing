@@ -1,42 +1,47 @@
 # ========================================
 # Dattatray Bhosale - .gitignore
-# For birthday-wishing Project
+# Birthday Wishing Project
+# Last Updated: June 2026
 # ========================================
 
-# Environment & Secrets
+# Environment Variables & Secrets
 .env
 .env.local
+.env.*.local
 *.key
 credentials.json
 
-# Logs
+# Logs & Error Files
 *.log
 logs/
 error.log
+debug.log
 
-# OS Generated
+# Operating System Files
 .DS_Store
 Thumbs.db
+ehthumbs.db
 
-# IDE / Editor
+# IDE & Editor Files
 .vscode/
 .idea/
 *.swp
 *.swo
+.project
+.settings/
 
-# Python Specific (if using)
+# Python Cache
 __pycache__/
 *.pyc
 *.pyo
 
-# Temporary Files
+# Temporary & Cache Folders
 temp/
 tmp/
 cache/
+*.cache
+*.tmp
 
-# Node.js (if used later)
-node_modules/
-npm-debug.log*
-
-# Keep this comment at the bottom
+# Keep this at the bottom
 # ========================================
+# Add project-specific rules below this line
