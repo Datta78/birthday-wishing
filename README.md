@@ -15,3 +15,4 @@ A simple script to send automated birthday wishes.
 
 ## 🛠️ Tech Stack
 `PHP` `JavaScript` `MySQL`
+
