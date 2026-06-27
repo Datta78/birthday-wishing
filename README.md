@@ -22,4 +22,5 @@ A simple and lightweight automation script to send birthday wishes automatically
 - Create web dashboard for managing wishes
 - Add scheduling using cron jobs
 - Make it a full SaaS tool
+- use of API keys
 
