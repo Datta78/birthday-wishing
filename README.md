@@ -12,3 +12,4 @@ A simple script to send automated birthday wishes.
 2. Import database (if any)
 3. Update config.php
 4. Run on localhost
+
