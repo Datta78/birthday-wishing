@@ -1,18 +1,18 @@
 # 🎉 Birthday Wishing Automation
 
-A simple script to send automated birthday wishes.
+A simple and lightweight automation script to send birthday wishes automatically.
 
-## Features
-- Automated message sending
-- Easy to customize wishes
-- Lightweight and fast
-
-## 🚀 How to Run
-1. Clone the repo
-2. Import database (if any)
-3. Update config.php
-4. Run on localhost
+## ✨ Features
+- Automated birthday message sending
+- Easy to customize wishes and recipients
+- Lightweight and fast execution
+- No third-party API dependency (optional)
 
 ## 🛠️ Tech Stack
-`PHP` `JavaScript` `MySQL`
+`PHP` `JavaScript` `MySQL` `Bootstrap`
 
+## 🚀 How to Run
+
+1. Clone the repository
+   ```bash
+   git clone https://github.com/Datta78/birthday-wishing.git
