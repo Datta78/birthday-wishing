@@ -17,3 +17,8 @@ A simple and lightweight automation script to send birthday wishes automatically
    ```bash
    git clone https://github.com/Datta78/birthday-wishing.git
 
+## 🔮 Future Plans
+- Add email & WhatsApp integration
+- Create web dashboard for managing wishes
+- Add scheduling using cron jobs
+- Make it a full SaaS tool
