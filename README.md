@@ -13,3 +13,5 @@ A simple script to send automated birthday wishes.
 3. Update config.php
 4. Run on localhost
 
+## 🛠️ Tech Stack
+`PHP` `JavaScript` `MySQL`
