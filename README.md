@@ -24,4 +24,3 @@ A simple and lightweight automation script to send birthday wishes automatically
 - Make it a full SaaS tool
 - use of API keys
 
-### why 
