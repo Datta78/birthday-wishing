@@ -25,4 +25,3 @@ A simple and lightweight automation script to send birthday wishes automatically
 - use of API keys
 
 ### why to not make such mistake 
-- it is hard to fix 
